@@ -52,3 +52,4 @@ Until a photo is added, its tile shows a brand-colour gradient with the label.
 ## License
 
 © TOM Creatives. All rights reserved.
+Initial landing page
